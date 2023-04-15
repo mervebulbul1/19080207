@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: 19080207, [Github Repo](https://github.com/mervebulbul1/19080207/tree/main/AraSinav)
+[^1]: 19080207, [Github Repo](https://github.com/mervebulbul1/19080207)
 
 
 
