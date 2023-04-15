@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "İSTANBUL DEPREMİ RİSK SENARYOSU"
 author: 
-  - İsim Soyisim[^1]
+  - MERVENUR BÜLBÜL[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,32 +32,39 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 19080207, [Github Repo](https://github.com/mervebulbul1/19080207/tree/main/AraSinav)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+
+*Bilim insanlarının 2030 yılına kadar gerçekleşmesini beklediği İstanbul depremi hakkında risk analizi araştırma konumdur.Veri setimi İstanbul Büyükşehir Belediye sitesinden buldum.Verimde yer alan gözlemler İstanbul'un ilçeleri değişkenler ise hasar derecesine göre binalar,can kaybı yaralı sayısı,doğal gaz borusu ve içme suyu borusu hasarları atık su boru hasarı ve geçici barınma.*
 
 
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+ Türkiye bulunduğu konum itibariyle arazilerinin % 42’si birinci dereceden, % 24’ü ikinci dereceden ve % 18’i ise üçüncü dereceden deprem bölgesi içinde yer almaktadır.istanbul'da birinci dereceden deprem bölgesinde yer almaktadır.Türkiye'yi doğu batı yönünde kuşatan yaklaşık 1500 km uzunluğundaki Kuzey Anadolu Fayı (KAF)ın İstanbul 'un güneyinde Marmara Denizi içindeki yaklaşık 200 kilometrelk kısmının kareket geçmesi ile oluşacak depremin büyüklüğünün 7.7 ve 2030 yılına kadar gerçekleşme olasılığının %62 olduğu hesaplanmıştır.
+*Genel anlamda risk, herhangi bir tehlikenin meydana gelme olasılığı ile bu tehlikenin neden olacağı sonuçların bileşkesidir. Başka bir değişle, risk düzeyi tehlikenin büyüklüğü ve etkilenen elemanların savunmasızlığıyla orantılıdır
+Sismik tehlike analizinde kullanılan veri tabanı depremin olma olasılığı, olası büyüklüğü ve yakın çevresinde yaratacağı şiddet gibi bilgilerden oluşmaktadır. Sismik risk analizinin çıktıları ise depreme bağlı can kayıpları başta olmak üzere
+yollar, köprüler, barajlar ve sanayi tesisleri gibi yapıların zarar görmesi nedeniyle oluşacak maddi kayıpların tahminlerini kapsamaktadır.
+KAF faaliyetlerinin tarihi kayıtlarına göre, İstanbul iki büyük deprem yaşamıştır.
+1509 ve 1766'da tüm şehri yerle bir eden depremlerler olmuştur.*
+Bu çalışmayla olası İstanbul depremi sonucunda meydana gelebilecek hasarların neler olabileceği araştırılacaktır.
+## Literatür
+  Depremin yol açacağı hasar ve can kaybının tahmini,depremin zararlarının öngörülmesi açısından çok önemlidir.Deprem riskini etkileyen faktörler; deprem tehlikesi,
+arazi kullanımı, demografik yapı ve ekonomik yapı olarak 4 başlık altında değerlendirilebilir.Deprem tehlikesi, başta depremin büyüklüğü olmak üzere, deprem dalgalarının farklı zeminlerdeki yayılım hızları ve yarattıkları ivme değerleriyle ölçülebilmektedir. Ayrıca, depremin tetiklediği zemin sıvılaşması, heyelan ve tsunami gibi diğer tehditler de deprem tehlikesi kapsamında incelenmektedir. Arazi kullanım şekilleri ve yapısı, etkilenmesi beklenen bölgede yaşayan nüfusun demografik durumu ve yine bu bölgenin ekonomik gücü, deprem riskinin değerlendirilmesinde hasar görebilirlik modülünü oluşturmaktadır. Arazi kullanımını oluşturan değişkenler sadece farklı kullanım dokularını değil, bu dokuları oluşturan öğelerin deprem karşısındaki davranış biçimlerini de içermektedir.Bina yoğunluğu, yapı tarzı, kat yükseklikleri ve altyapı sisteminin farklı noktalarındaki farklı özellikleri, yapılaşmış çevrenin deprem riski açısından değerlendirilmesinde temel başlıkları oluşturmaktadır. Genel arazi kullanım  dokusu göz önüne alındığında barınma, kamusal hizmetler,ticaret, sanayi ve altyapı sistemleri şeklinde bir gruplama yapılabilir.(@kundak2010istanbul)
+   
+   
+  Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nün yaptığı tahminlere göre,7,5 büyüklüğünde bir depremin gece meydana gelmesi durumunda, ortalama can kaybının 14.150 civarında olacak ve ağır yaralı sayısı 8.100 civarında olacak. Eğer
+Gündüz saatlerinde meydana gelen depremde 12.400 kişinin ölebileceği ve 7.450 kişinin ağır yaralanabileceği tahmin edilmektedir.7,5 büyüklüğünde, İstanbul'daki binaların %26'sının hafif,%13 orta, %3 ağır ve %1 çok ağır hasarlı olduğunun tahmini üzerine 26,04 milyar dolar ekonomik kayba neden olabilir.(@csimcsekistanbul)
 
-## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+## Kaynakça
+Şimşek, P., & Gündüz, A. İstanbul’u Büyük Bir Deprem Bekliyor: Mini Derleme.
+KUNDAK, S., & TÜRKOĞLU, H. (2010). İstanbul'da deprem riski analizi. İTÜDERGİSİ/a, 6(2).
+Kundak, S., & Handan, T. (2005). Assessment of seismic risk in Istanbul.
+Kundak, S., & Dülger-Türkoğlu, H. (2007). Evaluation of Earthquake Risk Parameters in the Historical Site of Istanbul. ARI (The Bulletin of the Istanbul Technical University), 55(1), 53-66.
 
-
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
 
 \newpage
 # Kaynakça {#references}
